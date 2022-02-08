@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.acmerobotics.dashboard:dashboard:0.4.3@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c9519b44880b929339f788713fb1c50c/jetified-dashboard-0.4.3/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c9519b44880b929339f788713fb1c50c/jetified-dashboard-0.4.3/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c9519b44880b929339f788713fb1c50c/jetified-dashboard-0.4.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/344ffc41158b61eda7d30b89f5ad25f9/transformed/jetified-dashboard-0.4.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/344ffc41158b61eda7d30b89f5ad25f9/transformed/jetified-dashboard-0.4.3/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/344ffc41158b61eda7d30b89f5ad25f9/transformed/jetified-dashboard-0.4.3/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.acmerobotics.dashboard/dashboard/0.4.3/8a0eb1de077f7fc28a1134f519fa96f058de894f/dashboard-0.4.3-javadoc.jar!/" />

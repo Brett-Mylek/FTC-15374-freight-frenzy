@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: org.openftc:easyopencv:1.5.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a28f220916b03acd2943a34822788a17/jetified-easyopencv-1.5.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a28f220916b03acd2943a34822788a17/jetified-easyopencv-1.5.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a28f220916b03acd2943a34822788a17/jetified-easyopencv-1.5.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/8bf90e9fc46e7ab8615cb46b96e20104/transformed/jetified-easyopencv-1.5.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/8bf90e9fc46e7ab8615cb46b96e20104/transformed/jetified-easyopencv-1.5.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/8bf90e9fc46e7ab8615cb46b96e20104/transformed/jetified-easyopencv-1.5.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.openftc/easyopencv/1.5.0/871ea56d7d45715b2e1ec3c4da8ff90a77b78c8a/easyopencv-1.5.0-javadoc.jar!/" />
