@@ -4,7 +4,7 @@
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
         <option name="GRADLE_PROJECT_PATH" value=":TeamCode" />
-        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.0.1" />
         <option name="LAST_KNOWN_AGP_VERSION" value="4.0.1" />
       </configuration>
     </facet>
@@ -32,6 +32,8 @@
     <content url="file://$MODULE_DIR$/../../../TeamCode">
       <sourceFolder url="file://$MODULE_DIR$/../../../TeamCode/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../TeamCode/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../TeamCode/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../TeamCode/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
       <excludeFolder url="file://$MODULE_DIR$/../../../TeamCode/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../TeamCode/build" />
     </content>
@@ -86,6 +88,8 @@
     <orderEntry type="library" name="Gradle: org.firstinspires.ftc:FtcCommon:7.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: org.firstinspires.ftc:OnBotJava:7.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: org.firstinspires.ftc:gameAssets-FreightFrenzy:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: org.openftc:easyopencv:1.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: org.openftc:opencv-repackaged:4.5.3-B@aar" level="project" />
     <orderEntry type="module" module-name="Odometry.FtcRobotController" />
   </component>
 </module>
